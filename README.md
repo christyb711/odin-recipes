@@ -1,2 +1,4 @@
 # odin-recipes
-simple html website created as part of the odin project foundation course
+this is a simple website i created as part of the odin project foundation course.
+it is the basic html module
+using vrious tags and lists
